@@ -101,6 +101,10 @@ div.site-header {
   color: #ffffff;
 }
 
+.fas.fa-bars:hover, .fas.fa-bars:focus {
+  color: rgb(69, 69, 155);
+}
+
 div.site-subheader {
   text-align: center;
   font-size: 1em;
